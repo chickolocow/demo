@@ -1,0 +1,47 @@
+{
+  "kicker": {
+    "text": "Unlimited Lessons",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "Unlimited Collection of **Advanced Lessons**"
+  },
+  "text_1": {
+    "text": "Target your audience based on their interests. Lorem ipsum dolor sit amet, consectetur magna aliqua."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-app/feature-three.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "title": {
+        "text": "Automatic interest detection",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore et dolore magna aliqua consectetur magna aliqua."
+      }
+    },
+    {
+      "title": {
+        "text": "Daily email reports",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore et dolore magna aliqua consectetur magna aliqua."
+      }
+    },
+    {
+      "title": {
+        "text": "Daily email reports",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore et dolore magna aliqua consectetur magna aliqua."
+      }
+    }
+  ]
+}

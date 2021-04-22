@@ -1,0 +1,57 @@
+{
+  "title": {
+    "text": "Don't Just Take our Word for it!",
+    "space": 3
+  },
+  "text_1": {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  "text_2": {
+    "text": "Sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet."
+  },
+  "container": {
+    "variant": ""
+  },
+  "collection": [
+    {
+      "title": {
+        "text": "570",
+        "color": "betaLight"
+      },
+      "description": {
+        "text": "Active Users",
+        "color": "omegaDark"
+      }
+    },
+    {
+      "title": {
+        "text": "1300",
+        "color": "beta"
+      },
+      "description": {
+        "text": "Downloads",
+        "color": "omegaDark"
+      }
+    },
+    {
+      "title": {
+        "text": "420",
+        "color": "betaDark"
+      },
+      "description": {
+        "text": "Positive Feedback",
+        "color": "omegaDark"
+      }
+    },
+    {
+      "title": {
+        "text": "810",
+        "color": "betaDarker"
+      },
+      "description": {
+        "text": "A++ Rating",
+        "color": "omegaDark"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "kicker": {
+    "text": "OVER 15,000+ LEADS GENERATED",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "Get **More Conversions** With Our Services"
+  },
+  "text_1": {
+    "text": "Lorem ipsum dolor sit amet, consectetur magna aliqua. Eaque ipsa quae ab illo inventore veritatis. Nemo enim ipsam voluptatem voluptas. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-app/feature-two.png",
+      "alt": "alt text"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Case Studies",
+      "type": "PAGE",
+      "link": "",
+      "variant": "secondary-light"
+    }
+  ]
+}

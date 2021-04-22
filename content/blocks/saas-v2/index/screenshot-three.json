@@ -1,0 +1,21 @@
+{
+  "kicker": {
+    "text": "Advanced Features",
+    "color": "beta"
+  },
+  "title": {
+    "text": "Scheduling Panel Overview",
+    "color": "omegaDarker"
+  },
+  "text_1": {
+    "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "color": "omegaDark"
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-saas-v2/hero.png",
+      "alt": "alt text",
+      "effects": ["fadeInDown"]
+    }
+  ]
+}

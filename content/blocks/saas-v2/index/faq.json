@@ -1,0 +1,105 @@
+{
+  "kicker": {
+    "text": "We Are Here To Help You",
+    "color": "beta"
+  },
+  "title": {
+    "text": "Frequently Asked Questions"
+  },
+  "icon": {
+    "src": "../../../assets/icons/bx-analyse.svg",
+    "alt": "alt text"
+  },
+  "collection": [
+    {
+      "title": {
+        "text": "What harsh truths do you prefer to ignore?"
+      },
+      "description": {
+        "text": "As an Internet marketing strategy, SEO considers how search engines work, the computer-programmed algorithms that dictate search engine behavior."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bxl-facebook.svg",
+        "alt": "alt text",
+        "bg": "white",
+        "color": "alpha"
+      },
+      "buttons": [
+        {
+          "text": "Get it on Google Play",
+          "type": "APP",
+          "link": "",
+          "variant": "google"
+        }
+      ]
+    },
+    {
+      "title": {
+        "text": "Is free will real or just an illusion?"
+      },
+      "description": {
+        "text": "Social media marketing is the use of social media platforms and websites to promote a product or service and is becoming more popular."
+      },
+
+      "icon": {
+        "src": "../../../assets/icons/bx-mobile-alt.svg",
+        "alt": "alt text",
+        "bg": "white",
+        "color": "alpha"
+      },
+      "buttons": [
+        {
+          "text": "Web Application",
+          "type": "PAGE",
+          "link": "",
+          "variant": "primary"
+        }
+      ]
+    },
+    {
+      "title": {
+        "text": "Mobile App for iPhone"
+      },
+      "description": {
+        "text": "Content marketing is a form of marketing focused on creating, publishing, and distributing content for a targeted audience online."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-mail-send.svg",
+        "alt": "alt text",
+        "bg": "white",
+        "color": "alpha"
+      },
+      "buttons": [
+        {
+          "text": "Download on the App Store",
+          "type": "APP",
+          "link": "",
+          "variant": "apple"
+        }
+      ]
+    },
+    {
+      "title": {
+        "text": "Is free will real or just an illusion?"
+      },
+      "description": {
+        "text": "Social media marketing is the use of social media platforms and websites to promote a product or service and is becoming more popular."
+      },
+
+      "icon": {
+        "src": "../../../assets/icons/bx-mobile-alt.svg",
+        "alt": "alt text",
+        "bg": "white",
+        "color": "alpha"
+      },
+      "buttons": [
+        {
+          "text": "Web Application",
+          "type": "PAGE",
+          "link": "",
+          "variant": "primary"
+        }
+      ]
+    }
+  ]
+}

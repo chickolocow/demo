@@ -1,0 +1,59 @@
+{
+  "kicker": {
+    "text": "Versatile Platform",
+    "color": "omega"
+  },
+  "title": {
+    "text": "**Versatile System** for All Software Startups"
+  },
+  "text_1": {
+    "text": "Target your audience based on their interests. Lorem ipsum dolor sit amet, consectetur magna aliqua."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-saas-v2/tab-feature-three.png",
+      "alt": "alt text"
+    },
+    {
+      "src": "../../../assets/theme-saas-v2/tab-feature-three-overlay-one.png",
+      "alt": "alt text",
+      "effects": ["fadeInDown", "float"],
+      "position": {
+        "top": "-35%",
+        "left": "25%"
+      }
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/icons/bx-analyse.svg",
+        "alt": "alt text",
+        "color": "white",
+        "bg": "beta"
+      },
+      "title": {
+        "text": "Automatic interest detection",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore et dolore magna aliqua consectetur magna aliqua."
+      }
+    },
+    {
+      "icon": {
+        "src": "../../../assets/icons/bx-directions.svg",
+        "alt": "alt text",
+        "color": "white",
+        "bg": "alpha"
+      },
+      "title": {
+        "text": "Daily email reports",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore et dolore magna aliqua consectetur magna aliqua."
+      }
+    }
+  ]
+}

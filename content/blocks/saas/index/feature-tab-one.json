@@ -1,0 +1,62 @@
+{
+  "kicker": {
+    "text": "GROW YOUR BUSINESS",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "Best Marketing Service for the **Technological Era**"
+  },
+  "text_1": {
+    "text": "Target your audience based on their interests. Lorem ipsum dolor sit amet, consectetur magna aliqua."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-saas/tab-feature-one.png",
+      "alt": "alt text"
+    },
+    {
+      "src": "../../../assets/theme-saas/tab-feature-one-overlay-two.png",
+      "alt": "alt text",
+      "effects": ["fadeInDown", "float"],
+      "position": {
+        "bottom": "-15%",
+        "left": "10%"
+      }
+    },
+    {
+      "src": "../../../assets/theme-saas/tab-feature-one-overlay-one.png",
+      "alt": "alt text",
+      "effects": ["fadeInUp", "floatFaster"],
+      "position": {
+        "top": "-20%",
+        "right": "17.5%"
+      }
+    }
+  ],
+  "collection": [
+    {
+      "kicker": {
+        "text": "15+",
+        "color": "beta"
+      },
+      "title": {
+        "text": "Advanced Panel"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore et dolore magna aliqua."
+      }
+    },
+    {
+      "kicker": {
+        "text": "10+",
+        "color": "beta"
+      },
+      "title": {
+        "text": "Report Metrics"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore et dolore magna aliqua."
+      }
+    }
+  ]
+}

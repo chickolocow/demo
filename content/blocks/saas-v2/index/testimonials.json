@@ -1,0 +1,98 @@
+{
+  "title": {
+    "text": "Grow Your Business and Join Our Happy Users"
+  },
+  "text_1": {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
+  },
+  "collection": [
+    {
+      "kicker": {
+        "text": "John Doe"
+      },
+      "title": {
+        "text": "CEO of CoolCompany",
+        "color": "omegaDark"
+      },
+      "description": {
+        "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio."
+      },
+      "avatar": {
+        "src": "../../../assets/testimonials/john-doe.png",
+        "alt": "alt text"
+      }
+    },
+    {
+      "kicker": {
+        "text": "Jane Smith"
+      },
+      "title": {
+        "text": "Developer at AwesomeCo",
+        "color": "omegaDark"
+      },
+      "description": {
+        "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio."
+      },
+      "avatar": {
+        "src": "../../../assets/testimonials/jane-smith.png",
+        "alt": "alt text"
+      }
+    },
+    {
+      "kicker": {
+        "text": "Sarah Doe"
+      },
+      "title": {
+        "text": "Marketing Manager",
+        "color": "omegaDark"
+      },
+      "description": {
+        "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio."
+      },
+      "avatar": {
+        "src": "../../../assets/testimonials/sarah-doe.png",
+        "alt": "alt text"
+      }
+    },
+    {
+      "kicker": {
+        "text": "Steve Grant"
+      },
+      "title": {
+        "text": "Freelancer Developer",
+        "color": "omegaDark"
+      },
+      "description": {
+        "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio."
+      },
+      "avatar": {
+        "src": "../../../assets/testimonials/steve-grant.png",
+        "alt": "alt text"
+      }
+    },
+    {
+      "kicker": {
+        "text": "Florrie Jacobs"
+      },
+      "title": {
+        "text": "Senior Fashion Designer",
+        "color": "omegaDark"
+      },
+      "description": {
+        "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio."
+      },
+      "avatar": {
+        "src": "../../../assets/testimonials/florrie-jacobs.png",
+        "alt": "alt text"
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Get Started Now",
+      "type": "MODAL",
+      "link": "authentication",
+      "variant": "gradient"
+    }
+  ]
+}

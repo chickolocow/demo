@@ -1,0 +1,55 @@
+{
+  "images": [
+    {
+      "src": "../../../assets/logo-shared.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "title": "Main Menu",
+      "buttons": [
+        {
+          "text": "Home",
+          "type": "ANCHOR",
+          "link": "#hero",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Branding",
+          "type": "ANCHOR",
+          "link": "#build-brand",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Services",
+          "type": "ANCHOR",
+          "link": "#feature-one",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Strategies",
+          "type": "ANCHOR",
+          "link": "#stats",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Testimonials",
+          "type": "ANCHOR",
+          "link": "#testimonials",
+          "variant": "links.nav-dark"
+        }
+      ]
+    },
+    {
+      "buttons": [
+        {
+          "text": "Contact Us",
+          "type": "MODAL",
+          "link": "contact",
+          "variant": "secondary-outline"
+        }
+      ]
+    }
+  ]
+}

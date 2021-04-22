@@ -1,0 +1,142 @@
+{
+  "collection": [
+    {
+      "kicker": {
+        "text": "Questions"
+      },
+      "title": {
+        "text": "Get in Touch",
+        "color": "omegaDarker"
+      },
+      "text_1": {
+        "text": "Any questions or remarks?",
+        "color": "omegaDark"
+      },
+      "text_2": {
+        "text": "We'll get back you within 24 hours.",
+        "color": "omega"
+      },
+      "images": [
+        {
+          "src": "../../../assets/theme-saas/contact.jpg",
+          "alt": "alt text"
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "identifier": "name",
+            "type": "TEXT",
+            "placeholder": {
+              "text": "Full Name"
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-user.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "email",
+            "type": "EMAIL",
+            "placeholder": {
+              "text": "Email Address"
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-envelope.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "subject",
+            "type": "TEXT",
+            "placeholder": {
+              "text": "Subject"
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-comment-detail.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "message",
+            "type": "TEXTAREA",
+            "placeholder": {
+              "text": "Enter your message"
+            }
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Send Message",
+            "type": "SUBMIT",
+            "variant": "secondary",
+            "width": "200px"
+          }
+        ]
+      }
+    },
+    {
+      "kicker": {
+        "text": "Information"
+      },
+      "title": {
+        "text": "Contact Details",
+        "color": "omegaDarker"
+      },
+      "text_1": {
+        "text": "Have some feedback for us?",
+        "color": "omegaDark"
+      },
+      "text_2": {
+        "text": "Give us a call or send an email.",
+        "color": "omega"
+      },
+      "map": {
+        "lat": 59.955413,
+        "lng": 30.337844,
+        "zoom": 12
+      },
+      "collection": [
+        {
+          "title": {
+            "text": "+123 (4567) 8910",
+            "color": "omegaDarker"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-phone.svg",
+            "alt": "alt text",
+            "color": "alpha",
+            "bg": "transparent"
+          }
+        },
+        {
+          "title": {
+            "text": "hello@example.com",
+            "color": "omegaDarker"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-envelope.svg",
+            "alt": "alt text",
+            "color": "alpha",
+            "bg": "transparent"
+          }
+        },
+        {
+          "title": {
+            "text": "120 Street Lorem Ipsum Sit Amet",
+            "color": "omegaDarker"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-building-house.svg",
+            "alt": "alt text",
+            "color": "alpha",
+            "bg": "transparent"
+          }
+        }
+      ]
+    }
+  ]
+}

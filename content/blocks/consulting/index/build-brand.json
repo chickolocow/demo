@@ -1,0 +1,74 @@
+{
+  "kicker": "",
+  "title": {
+    "text": "Build Your Brand"
+  },
+  "text_1": {
+    "text": "We help our clients achieve tangible, high-impact results."
+  },
+  "text_2": {
+    "text": "Tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-consulting/app5.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "title": {
+        "text": "Targeted SEO",
+        "color": "alphaDark"
+      },
+      "description": {
+        "text": "As an Internet marketing strategy, SEO considers."
+      }
+    },
+    {
+      "title": {
+        "text": "Marketing outline",
+        "color": "alphaDark"
+      },
+      "description": {
+        "text": "Social media marketing is the use of social media."
+      }
+    },
+    {
+      "title": {
+        "text": "Content Writing",
+        "color": "alphaDark"
+      },
+      "description": {
+        "text": "Content marketing is a form of marketing focused."
+      }
+    },
+    {
+      "title": {
+        "text": "Market Analysis",
+        "color": "alphaDark"
+      },
+      "description": {
+        "text": "Content marketing is a form of marketing focused."
+      }
+    },
+    {
+      "title": {
+        "text": "Innovative Solutions",
+        "color": "alphaDark"
+      },
+      "description": {
+        "text": "Content marketing is a form of marketing focused."
+      }
+    },
+    {
+      "title": {
+        "text": "Optimal Choice",
+        "color": "alphaDark"
+      },
+      "description": {
+        "text": "Content marketing is a form of marketing focused."
+      }
+    }
+  ]
+}

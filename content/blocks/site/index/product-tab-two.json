@@ -1,0 +1,50 @@
+{
+  "kicker": {
+    "text": "Vendor Referal ",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "Sirru can refer **clients** to already **established vendors** for the following solutions."
+  },
+  "text_1": {
+    "text": "- quis nostrud exercitation ullamco"
+  },
+  "text_2": {
+    "text": "- consectetur adipiscing elit"
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-saas/tab-feature-two.png",
+      "alt": "alt text"
+    },
+    {
+      "src": "../../../assets/theme-saas/tab-feature-two-overlay-one.png",
+      "alt": "alt text",
+      "effects": ["fadeInDown", "floatFaster"],
+      "position": {
+        "top": "-30%",
+        "right": "5%"
+      }
+    },
+    {
+      "src": "../../../assets/theme-saas/tab-feature-two-overlay-two.png",
+      "alt": "alt text",
+      "effects": ["fadeInBounce", "float"],
+      "position": {
+        "top": "-15%",
+        "left": "10%"
+      }
+    },
+
+    {
+      "src": "../../../assets/theme-saas/tab-feature-two-overlay-three.png",
+      "alt": "alt text",
+      "effects": ["fadeInBounce", "floatFaster"],
+      "position": {
+        "bottom": "-10%",
+        "left": "20%"
+      }
+    }
+  ]
+  
+}

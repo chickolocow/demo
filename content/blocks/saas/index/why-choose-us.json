@@ -1,0 +1,71 @@
+{
+  "kicker": {
+    "text": "Get access to unlimited resources",
+    "color": "alpha"
+  },
+  "title": {
+    "text": "Why Choose Us Over Competition?"
+  },
+  "collection": [
+    {
+      "title": {
+        "text": "Advanced Analytics",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "At vero eos et accusamus et. Tempor incididunt ut labore et dolore magna aliqua consectetur magna aliqua."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-analyse.svg",
+        "alt": "alt text",
+        "bg": "#D3E7FE",
+        "color": "#276BF0"
+      }
+    },
+    {
+      "title": {
+        "text": "Expert Support",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Et harum quidem rerum facilis. Tempor incididunt ut labore et dolore magna aliqua consectetur magna aliqua."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-chat.svg",
+        "alt": "alt text",
+        "bg": "#FEFAD6",
+        "color": "#F4D133"
+      }
+    },
+    {
+      "title": {
+        "text": "Lifetime Access",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Itaque earum rerum hic tenetur. Tempor incididunt ut labore et dolore magna aliqua consectetur magna aliqua."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-dna.svg",
+        "alt": "alt text",
+        "bg": "#FEE8D1",
+        "color": "#F7491D"
+      }
+    },
+    {
+      "title": {
+        "text": "Creative Solutions",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Similique sunt in culpa officia. Tempor incididunt ut labore et dolore magna aliqua consectetur magna aliqua."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-directions.svg",
+        "alt": "alt text",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    }
+  ]
+}

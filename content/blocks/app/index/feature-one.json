@@ -1,0 +1,48 @@
+{
+  "kicker": {
+    "text": "GROW YOUR BUSINESS",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "Best Marketing Service for the **Technological Era**"
+  },
+  "text_1": {
+    "text": "Target your audience based on their interests. Lorem ipsum dolor sit amet, consectetur magna aliqua."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-app/feature-one.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/icons/bx-analyse.svg",
+        "alt": "alt text",
+        "color": "beta"
+      },
+      "title": {
+        "text": "Automatic interest detection",
+        "color": "omegaDark"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore et dolore magna aliqua consectetur magna aliqua."
+      }
+    },
+    {
+      "icon": {
+        "src": "../../../assets/icons/bx-directions.svg",
+        "alt": "alt text",
+        "color": "beta"
+      },
+      "title": {
+        "text": "Daily email reports",
+        "color": "omegaDark"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore et dolore magna aliqua consectetur magna aliqua."
+      }
+    }
+  ]
+}

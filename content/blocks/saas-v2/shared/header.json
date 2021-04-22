@@ -1,0 +1,54 @@
+{
+  "images": [
+    {
+      "src": "../../../assets/logo-shared.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "buttons": [
+        {
+          "text": "Home",
+          "type": "ANCHOR",
+          "link": "#hero",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Features",
+          "type": "ANCHOR",
+          "link": "#process",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Pricing",
+          "type": "ANCHOR",
+          "link": "#pricing",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "FAQ",
+          "type": "ANCHOR",
+          "link": "#faq",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Blog",
+          "type": "ANCHOR",
+          "link": "#latest-blogs",
+          "variant": "links.nav-dark"
+        }
+      ]
+    },
+    {
+      "buttons": [
+        {
+          "text": "Get Started",
+          "type": "MODAL",
+          "link": "authentication",
+          "variant": "secondary-light"
+        }
+      ]
+    }
+  ]
+}

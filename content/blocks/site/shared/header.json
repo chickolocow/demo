@@ -1,0 +1,49 @@
+{
+  "images": [
+    {
+      "src": "../../../assets/SirruLogo.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "buttons": [
+        {
+          "text": "Home",
+          "type": "ANCHOR",
+          "link": "#hero",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Our Team",
+          "type": "ANCHOR",
+          "link": "#our-teams",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Our Products",
+          "type": "ANCHOR",
+          "link": "#products",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "About Us",
+          "type": "ANCHOR",
+          "link": "#about",
+          "variant": "links.nav-dark"
+        }
+      
+      ]
+    },
+    {
+      "buttons": [
+        {
+          "text": "Contact US",
+          "type": "MODAL",
+          "link": "contact",
+          "variant": "secondary-light"
+        }
+      ]
+    }
+  ]
+}

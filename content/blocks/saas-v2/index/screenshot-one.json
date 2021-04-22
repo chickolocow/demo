@@ -1,0 +1,21 @@
+{
+  "kicker": {
+    "text": "Advanced Customer Service Platform",
+    "color": "beta"
+  },
+  "title": {
+    "text": "Platform Overview",
+    "color": "omegaDarker"
+  },
+  "text_1": {
+    "text": "Hassle-free platform and specialists to help you with your marketing campaigns.",
+    "color": "omegaDark"
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-saas-v2/hero.png",
+      "alt": "alt text",
+      "effects": ["fadeInDown"]
+    }
+  ]
+}

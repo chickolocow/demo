@@ -1,0 +1,77 @@
+{
+  "kicker": {
+    "text": "Have Fun Learn Fast",
+    "color": "beta"
+  },
+  "title": {
+    "text": "See How It Works"
+  },
+  "text_1": {
+    "text": "We help our clients achieve tangible, high-impact results."
+  },
+  "text_2": {
+    "text": "Tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-app/how-it-works.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "title": {
+        "text": "Listening and Speaking",
+        "color": "alpha"
+      },
+      "description": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+      }
+    },
+    {
+      "title": {
+        "text": "Fun, Bite-Sized Lessons",
+        "color": "alpha"
+      },
+      "description": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+      }
+    },
+    {
+      "title": {
+        "text": "Unlimited Lessons",
+        "color": "alpha"
+      },
+      "description": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+      }
+    },
+    {
+      "title": {
+        "text": "Daily Goals and Ranking",
+        "color": "alpha"
+      },
+      "description": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+      }
+    },
+    {
+      "title": {
+        "text": "Native Teachers",
+        "color": "alpha"
+      },
+      "description": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+      }
+    },
+    {
+      "title": {
+        "text": "Useful Everyday Phrases",
+        "color": "alpha"
+      },
+      "description": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+      }
+    }
+  ]
+}

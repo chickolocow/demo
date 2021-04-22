@@ -1,0 +1,144 @@
+{
+  "kicker": {
+    "text": "HIGH IMPACT RESULTS",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "Strategies Focused on Your Performance",
+    "color": "alpha"
+  },
+  "text_1": {
+    "text": "Understand First. Lorem ipsum dolor sit amet."
+  },
+  "text_2": {
+    "text": "We help our clients achieve tangible, high-impact results."
+  },
+  "icon": {
+    "src": "../../../assets/icons/bx-analyse.svg",
+    "alt": "alt text"
+  },
+  "collection": [
+    {
+      "title": {
+        "text": "450+"
+      },
+      "description": {
+        "text": "Leads Generated"
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-brain.svg",
+        "alt": "alt text",
+        "bg": "transparent",
+        "color": "#FFB051"
+      }
+    },
+    {
+      "title": {
+        "text": "500+"
+      },
+      "description": {
+        "text": "Marketing Campaigns"
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-hive.svg",
+        "alt": "alt text",
+        "bg": "transparent",
+        "color": "#FFB051"
+      }
+    },
+    {
+      "title": {
+        "text": "200+"
+      },
+      "description": {
+        "text": "Successful Clients"
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-bar-chart-alt.svg",
+        "alt": "alt text",
+        "bg": "transparent",
+        "color": "#79C120"
+      }
+    },
+    {
+      "title": {
+        "text": "100+"
+      },
+      "description": {
+        "text": "Social Media"
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-dollar-circle.svg",
+        "alt": "alt text",
+        "bg": "transparent",
+        "color": "#79C120"
+      }
+    }
+  ],
+  "list_2": [
+    {
+      "title": {
+        "text": "Email Marketing"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-mail-send.svg",
+        "alt": "alt text",
+        "bg": "white",
+        "color": "alpha"
+      }
+    },
+    {
+      "title": {
+        "text": "Facebook Marketing"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bxl-facebook.svg",
+        "alt": "alt text",
+        "bg": "white",
+        "color": "alpha"
+      }
+    },
+    {
+      "title": {
+        "text": "Google Adwords"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bxl-google.svg",
+        "alt": "alt text",
+        "bg": "white",
+        "color": "alpha"
+      }
+    },
+    {
+      "title": {
+        "text": "In-App Marketing"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-mobile-alt.svg",
+        "alt": "alt text",
+        "bg": "white",
+        "color": "alpha"
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Schedule a Call",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "secondary"
+    }
+  ]
+}

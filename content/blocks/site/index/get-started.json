@@ -1,0 +1,33 @@
+{
+  "kicker": {
+    "text": "Let's get in touch",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "Hello, Ready to get started?",
+    "space": 3
+  },
+  "text_1": {
+    "text": "Get in touch to grow your business and increase sales.",
+    "color": "alpha"
+  },
+  "text_2": {
+    "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua!",
+    "color": "omegaDark"
+  },
+  "text_3": "",
+  "buttons": [
+    {
+      "text": "Get Started",
+      "type": "MODAL",
+      "link": "authentication",
+      "variant": "secondary"
+    },
+    {
+      "text": "Contact us",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "primary-light"
+    }
+  ]
+}

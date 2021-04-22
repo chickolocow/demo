@@ -1,0 +1,17 @@
+{
+  "text_1": {
+    "text": "Understand First. Lorem ipsum dolor sit amet.",
+    "color": "alpha"
+  },
+  "text_2": {
+    "text": "We help our clients achieve tangible, high-impact results."
+  },
+  "buttons": [
+    {
+      "text": "Download our Free Cheat Sheet",
+      "type": "PAGE",
+      "link": "",
+      "variant": "primary-light"
+    }
+  ]
+}

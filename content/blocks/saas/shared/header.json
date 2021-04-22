@@ -1,0 +1,48 @@
+{
+  "images": [
+    {
+      "src": "../../../assets/logo-shared.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "buttons": [
+        {
+          "text": "Home",
+          "type": "ANCHOR",
+          "link": "#hero",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Features",
+          "type": "ANCHOR",
+          "link": "#feature-tab-one",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Pricing",
+          "type": "ANCHOR",
+          "link": "#pricing",
+          "variant": "links.nav-dark"
+        },
+        {
+          "text": "Testimonials",
+          "type": "ANCHOR",
+          "link": "#testimonials",
+          "variant": "links.nav-dark"
+        }
+      ]
+    },
+    {
+      "buttons": [
+        {
+          "text": "Contact US",
+          "type": "MODAL",
+          "link": "contact",
+          "variant": "secondary-light"
+        }
+      ]
+    }
+  ]
+}

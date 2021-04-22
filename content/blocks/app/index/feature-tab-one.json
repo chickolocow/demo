@@ -1,0 +1,47 @@
+{
+  "kicker": {
+    "text": "Learning Solution",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "**Start Learning** Foreign Languages Today"
+  },
+  "text_1": {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-app/feature-one.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "kicker": {
+        "text": "5.0/5.0",
+        "color": "#2DC88A"
+      },
+      "title": {
+        "text": "Reviews Satisfied Users"
+      }
+    },
+    {
+      "kicker": {
+        "text": "300K+",
+        "color": "alpha"
+      },
+      "title": {
+        "text": "Monthly Downloads"
+      }
+    },
+    {
+      "kicker": {
+        "text": "99.99%",
+        "color": "beta"
+      },
+      "title": {
+        "text": "Satisfaction Rating"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "kicker": {
+    "text": "HIGH IMPACT RESULTS",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "Strategies Focused on Your Performance",
+    "color": "omegaDarker"
+  },
+  "collection": [
+    {
+      "title": {
+        "text": "450",
+        "color": "alpha"
+      },
+      "description": {
+        "text": "Leads Generated",
+        "color": "omegaDark"
+      }
+    },
+    {
+      "title": {
+        "text": "500",
+        "color": "alpha"
+      },
+      "description": {
+        "text": "Marketing Campaigns",
+        "color": "omegaDark"
+      }
+    },
+    {
+      "title": {
+        "text": "200",
+        "color": "alpha"
+      },
+      "description": {
+        "text": "Successful Clients",
+        "color": "omegaDark"
+      }
+    },
+    {
+      "title": {
+        "text": "100",
+        "color": "alpha"
+      },
+      "description": {
+        "text": "Social Media",
+        "color": "omegaDark"
+      }
+    }
+  ]
+}

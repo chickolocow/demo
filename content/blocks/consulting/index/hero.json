@@ -1,0 +1,48 @@
+{
+  "kicker": "",
+  "title": {
+    "text": "We Drive Acquisition for Growing Brands"
+  },
+  "text_1": {
+    "text": "Hassle-free platform and specialists to help you with your marketing campaigns."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-consulting/hero.png",
+      "alt": "alt text",
+      "objectPosition": "center bottom"
+    },
+    {
+      "src": "../../../assets/theme-consulting/hero-overlay-one.png",
+      "alt": "alt text",
+      "effects": ["fadeInDown", "float"],
+      "position": {
+        "top": "22%",
+        "left": "6%"
+      }
+    },
+    {
+      "src": "../../../assets/theme-consulting/hero-overlay-two.png",
+      "alt": "alt text",
+      "effects": ["fadeInDown", "floatFaster"],
+      "position": {
+        "bottom": "5%",
+        "right": "2%"
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Singup Now",
+      "type": "MODAL",
+      "link": "authentication",
+      "variant": "primary-light"
+    },
+    {
+      "text": "Schedule Demo",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "secondary-light"
+    }
+  ]
+}

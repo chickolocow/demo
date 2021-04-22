@@ -1,0 +1,63 @@
+{
+  "kicker": {
+    "text": "Modern Solutions"
+  },
+  "title": {
+    "text": "Your Partner in Creating and Growing Brands"
+  },
+  "text_1": {
+    "text": "Hassle-free platform and specialists to help you with your marketing campaigns."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-marketing/hero.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "title": {
+        "text": "AI Analytics"
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-analyse.svg",
+        "alt": "alt text",
+        "color": "#5a67d8"
+      }
+    },
+    {
+      "title": {
+        "text": "Daily Reports"
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-mail-send.svg",
+        "alt": "alt text",
+        "color": "#5BB91D"
+      }
+    },
+    {
+      "title": {
+        "text": "Lab-Tested"
+      },
+      "icon": {
+        "src": "../../../assets/icons/bxs-vial.svg",
+        "alt": "alt text",
+        "color": "#FFB051"
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Get Started",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "secondary"
+    },
+    {
+      "text": "Case Studies",
+      "type": "PAGE",
+      "link": "",
+      "variant": "white"
+    }
+  ]
+}

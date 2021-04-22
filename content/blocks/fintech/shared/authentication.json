@@ -1,0 +1,216 @@
+{
+  "collection": [
+    {
+      "kicker": {
+        "text": "Register"
+      },
+      "title": {
+        "text": "**Create** an Account.",
+        "color": "omegaDarker"
+      },
+      "text_1": {
+        "text": "Start your 14 days free trial.",
+        "color": "omegaDark"
+      },
+      "text_2": {
+        "text": "No credit card required.",
+        "color": "omega"
+      },
+      "images": [
+        {
+          "src": "../../../assets/theme-fintech/login.jpg",
+          "alt": "alt text"
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "identifier": "name",
+            "type": "TEXT",
+            "placeholder": {
+              "text": "Full Name"
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-user.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "email",
+            "type": "EMAIL",
+            "placeholder": {
+              "text": "Email Address"
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-envelope.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "password",
+            "type": "PASSWORD",
+            "placeholder": {
+              "text": "Password"
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-lock-alt.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "confirm-password",
+            "type": "PASSWORD",
+            "placeholder": {
+              "text": "Confirm Password"
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-lock-alt.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "agree",
+            "type": "CHECKBOX",
+            "placeholder": {
+              "text": "I agree to all statements in the Terms of Use."
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-lock-alt.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Create Account",
+            "type": "PAGE",
+            "link": "",
+            "variant": "secondary",
+            "width": "200px"
+          }
+        ]
+      }
+    },
+    {
+      "kicker": {
+        "text": "Login"
+      },
+      "title": {
+        "text": "**Welcome** Back.",
+        "color": "omegaDarker"
+      },
+      "text_1": {
+        "text": "Log in to your account with the data you entered during registration.",
+        "color": "omegaDark"
+      },
+      "images": [
+        {
+          "src": "../../../assets/theme-fintech/login.jpg",
+          "alt": "alt text"
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "identifier": "email",
+            "type": "EMAIL",
+            "placeholder": {
+              "text": "Email Address"
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-envelope.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "password",
+            "type": "PASSWORD",
+            "placeholder": {
+              "text": "Password"
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-lock-alt.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          },
+          {
+            "identifier": "remember",
+            "type": "CHECKBOX",
+            "placeholder": {
+              "text": "Keep me signed in on this device"
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-lock-alt.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Login",
+            "type": "PAGE",
+            "link": "",
+            "variant": "secondary",
+            "width": "200px"
+          },
+          {
+            "text": "Need to find your Password?",
+            "type": "TAB",
+            "link": "authentication.2",
+            "variant": "links.normal"
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "**Recover** Your Account.",
+        "color": "omegaDarker"
+      },
+      "text_1": {
+        "text": "Please enter the email address you entered during registration.",
+        "color": "omegaDark"
+      },
+
+      "images": [
+        {
+          "src": "../../../assets/theme-fintech/login.jpg",
+          "alt": "alt text"
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "identifier": "email",
+            "type": "EMAIL",
+            "placeholder": {
+              "text": "Email Address"
+            },
+            "icon": {
+              "src": "../../../assets/icons/bx-envelope.svg",
+              "alt": "alt text",
+              "color": "alpha"
+            }
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Send Recovery Email",
+            "type": "PAGE",
+            "link": "",
+            "variant": "secondary",
+            "width": "200px"
+          }
+        ]
+      }
+    }
+  ]
+}

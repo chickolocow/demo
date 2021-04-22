@@ -1,0 +1,52 @@
+{
+  "kicker": {
+    "text": ""
+  },
+  "title": {
+    "text": "",
+    "color": "alpha",
+    "space": 1
+  },
+  "collection": [
+    {
+      "title": {
+        "text": "570",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Active Users",
+        "color": "betaLight"
+      }
+    },
+    {
+      "title": {
+        "text": "1300",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Downloads",
+        "color": "betaLight"
+      }
+    },
+    {
+      "title": {
+        "text": "420",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Positive Feedback",
+        "color": "betaLight"
+      }
+    },
+    {
+      "title": {
+        "text": "810",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "A++ Rating",
+        "color": "betaLight"
+      }
+    }
+  ]
+}

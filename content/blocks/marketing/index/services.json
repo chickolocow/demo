@@ -1,0 +1,168 @@
+{
+  "kicker": "",
+  "title": {
+    "text": "Our Digital Marketing Expertise"
+  },
+  "text_1": {
+    "text": "We help our clients achieve tangible, high-impact results."
+  },
+  "text_2": {
+    "text": "Tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "icon": {
+    "src": "../../../assets/icons/bx-analyse.svg",
+    "alt": "alt text"
+  },
+  "collection": [
+    {
+      "title": {
+        "text": "Targeted SEO",
+        "color": "alpha"
+      },
+      "description": {
+        "text": "As an Internet marketing strategy, SEO considers how search engines work, the computer-programmed algorithms that dictate search engine behavior."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-target-lock.svg",
+        "alt": "alt text",
+        "bg": "alphaLighter",
+        "color": "alpha"
+      },
+      "collection": [
+        {
+          "title": {
+            "text": "Content optimization",
+            "color": "omegaDark"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "title": {
+            "text": "Strategy & planning",
+            "color": "omegaDark"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "title": {
+            "text": "Monthly reports",
+            "color": "omegaDark"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "text": "Social Marketing",
+        "color": "#FF633D"
+      },
+      "description": {
+        "text": "Social media marketing is the use of social media platforms and websites to promote a product or service and is becoming more popular."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-user-voice.svg",
+        "alt": "alt text",
+        "bg": "#FFEBD8",
+        "color": "#FF633D"
+      },
+      "collection": [
+        {
+          "title": {
+            "text": "Creating engaging content",
+            "color": "omegaDark"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "title": {
+            "text": "Trend research",
+            "color": "omegaDark"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "title": {
+            "text": "Evaluation and feedback",
+            "color": "omegaDark"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "text": "Content Writing",
+        "color": "beta"
+      },
+      "description": {
+        "text": "Content marketing is a form of marketing focused on creating, publishing, and distributing content for a targeted audience online."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-pen.svg",
+        "alt": "alt text",
+        "bg": "betaLighter",
+        "color": "beta"
+      },
+      "collection": [
+        {
+          "title": {
+            "text": "Unique content creation",
+            "color": "omegaDark"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "title": {
+            "text": "SEO optimized articles",
+            "color": "omegaDark"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "title": {
+            "text": "Fast turnaround",
+            "color": "omegaDark"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "kicker": {
+    "text": "GROW YOUR BUSINESS",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "Best Marketing Service for the **Technological Era**"
+  },
+  "text_1": {
+    "text": "Target your audience based on their interests. Lorem ipsum dolor sit amet, consectetur magna aliqua."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-saas/tab-feature-two.png",
+      "alt": "alt text"
+    },
+    {
+      "src": "../../../assets/theme-saas/tab-feature-two-overlay-one.png",
+      "alt": "alt text",
+      "effects": ["fadeInDown", "floatFaster"],
+      "position": {
+        "top": "-30%",
+        "right": "5%"
+      }
+    },
+    {
+      "src": "../../../assets/theme-saas/tab-feature-two-overlay-two.png",
+      "alt": "alt text",
+      "effects": ["fadeInBounce", "float"],
+      "position": {
+        "top": "-15%",
+        "left": "10%"
+      }
+    },
+
+    {
+      "src": "../../../assets/theme-saas/tab-feature-two-overlay-three.png",
+      "alt": "alt text",
+      "effects": ["fadeInBounce", "floatFaster"],
+      "position": {
+        "bottom": "-10%",
+        "left": "20%"
+      }
+    }
+  ],
+  "collection": [
+    {
+      "kicker": {
+        "text": "Advanced Panel",
+        "color": "omegaDarker"
+      },
+      "title": {
+        "text": "50",
+        "color": "beta"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore."
+      }
+    },
+    {
+      "kicker": {
+        "text": "Report Metrics",
+        "color": "omegaDarker"
+      },
+      "title": {
+        "text": "75",
+        "color": "beta"
+      },
+      "description": {
+        "text": "Consectetur magna aliqua."
+      }
+    }
+  ]
+}

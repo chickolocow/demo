@@ -1,0 +1,92 @@
+{
+  "collection": [
+    {
+      "title": {
+        "text": "Market Research"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime labore et dolore magna aliqua."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-dollar-circle.svg",
+        "alt": "alt text",
+        "bg": "#FFF2DD",
+        "color": "#FF9655"
+      },
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "",
+          "variant": "links.normal"
+        }
+      ]
+    },
+    {
+      "title": {
+        "text": "Strategy & Direction"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime labore et dolore magna aliqua."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-brain.svg",
+        "alt": "alt text",
+        "bg": "#FEE9E3",
+        "color": "#F87488"
+      },
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "",
+          "variant": "links.normal"
+        }
+      ]
+    },
+    {
+      "title": {
+        "text": "Brand Marketing"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime labore et dolore magna aliqua."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-hive.svg",
+        "alt": "alt text",
+        "bg": "#E5FCF3",
+        "color": "#6DC9C8"
+      },
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "",
+          "variant": "links.normal"
+        }
+      ]
+    },
+    {
+      "title": {
+        "text": "Smart Scaling"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime labore et dolore magna aliqua."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-bar-chart-alt.svg",
+        "alt": "alt text",
+        "bg": "#F5E7FE",
+        "color": "#B887F8"
+      },
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "",
+          "variant": "links.normal"
+        }
+      ]
+    }
+  ]
+}

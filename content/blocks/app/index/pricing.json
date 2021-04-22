@@ -1,0 +1,274 @@
+{
+  "kicker": {
+    "text": "Cancel or Switch Plans Anytime",
+    "color": "alpha"
+  },
+  "title": {
+    "text": "Our Pricing Plans"
+  },
+  "text_1": {
+    "text": "Building great customer relationships is just a step away"
+  },
+  "text_2": {
+    "textGroup": ["Monthly", "Annually (Save 10%)"]
+  },
+  "collection": [
+    {
+      "kicker": {
+        "text": "Beginner",
+        "color": "#2DC88A"
+      },
+      "title": {
+        "textGroup": ["$29", "$25"],
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "/month"
+      },
+      "text_1": {
+        "textGroup": ["", "Save 10%"]
+      },
+      "text_2": {
+        "text": "For up to 10 customers and 1 agent"
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-user.svg",
+        "alt": "alt text",
+        "bg": "#2DC88A",
+        "color": "white"
+      },
+      "buttons": [
+        {
+          "text": "Choose Beginner",
+          "type": "MODAL",
+          "link": "authentication",
+          "variant": "dark"
+        }
+      ],
+      "collection": [
+        {
+          "title": {
+            "text": "10 Customers"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "#2DC88A"
+          }
+        },
+        {
+          "title": {
+            "text": "1 Agent"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "#2DC88A"
+          }
+        },
+        {
+          "title": {
+            "text": "Deal pipeline"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "#2DC88A"
+          }
+        },
+        {
+          "title": {
+            "text": "Meeting scheduling"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "#2DC88A"
+          }
+        },
+        {
+          "title": {
+            "text": "Reporting dashboard"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "#2DC88A"
+          }
+        }
+      ]
+    },
+    {
+      "kicker": {
+        "text": "Intermediate",
+        "color": "alpha"
+      },
+      "title": {
+        "text": "$49",
+        "textGroup": ["$49", "$45"],
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "/month"
+      },
+      "text_1": {
+        "textGroup": ["", "Save 10%"]
+      },
+      "text_2": {
+        "text": "For up to 100 customers and 10 agents"
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-rocket.svg",
+        "alt": "alt text",
+        "bg": "alpha",
+        "color": "white"
+      },
+      "buttons": [
+        {
+          "text": "Choose Intermediate",
+          "type": "MODAL",
+          "link": "authentication",
+          "variant": "primary"
+        }
+      ],
+      "collection": [
+        {
+          "title": {
+            "text": "100 Customers"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "alpha"
+          }
+        },
+        {
+          "title": {
+            "text": "10 Agents"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "alpha"
+          }
+        },
+        {
+          "title": {
+            "text": "Sales analytics"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "alpha"
+          }
+        },
+        {
+          "title": {
+            "text": "Record customization"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "alpha"
+          }
+        },
+        {
+          "title": {
+            "text": "Calculated properties"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "alpha"
+          }
+        }
+      ]
+    },
+    {
+      "kicker": {
+        "text": "Professional",
+        "color": "beta"
+      },
+      "title": {
+        "text": "$99",
+        "textGroup": ["$99", "$95"],
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "/month"
+      },
+      "text_1": {
+        "textGroup": ["", "Save 10%"]
+      },
+      "text_2": {
+        "text": "Unlimited customers and agents"
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-meteor.svg",
+        "alt": "alt text",
+        "bg": "beta",
+        "color": "white"
+      },
+      "buttons": [
+        {
+          "text": "Choose Professional",
+          "type": "MODAL",
+          "link": "authentication",
+          "variant": "dark"
+        }
+      ],
+      "collection": [
+        {
+          "title": {
+            "text": "Unlimited Customers"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "beta"
+          }
+        },
+        {
+          "title": {
+            "text": "Unlimited Agents"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "beta"
+          }
+        },
+        {
+          "title": {
+            "text": "Predictive lead scoring"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "beta"
+          }
+        },
+        {
+          "title": {
+            "text": "User roles"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "beta"
+          }
+        },
+        {
+          "title": {
+            "text": "Call transcription"
+          },
+          "icon": {
+            "src": "../../../assets/icons/bx-check.svg",
+            "alt": "alt text",
+            "color": "beta"
+          }
+        }
+      ]
+    }
+  ]
+}

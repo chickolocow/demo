@@ -1,0 +1,68 @@
+{
+  "kicker": {
+    "text": "Fintech Infrastructure",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "Sirru is uniquiely positioned to get your Fintech company set up **quickly** and **economically.** "
+  },
+  "text_1": {
+    "text": "- Setting you up as payments vendor"
+  },
+  "text_2": {
+    "text": "- Compliance with FATF"
+  },
+  "description": {
+    "text": "- Going to be a bunch more here to be filled out by the client"
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-saas/tab-feature-one.png",
+      "alt": "alt text"
+    },
+    {
+      "src": "../../../assets/theme-saas/tab-feature-one-overlay-two.png",
+      "alt": "alt text",
+      "effects": ["fadeInDown", "float"],
+      "position": {
+        "bottom": "-15%",
+        "left": "10%"
+      }
+    },
+    {
+      "src": "../../../assets/theme-saas/tab-feature-one-overlay-one.png",
+      "alt": "alt text",
+      "effects": ["fadeInUp", "floatFaster"],
+      "position": {
+        "top": "-20%",
+        "right": "17.5%"
+      }
+    }
+  ],
+  "collection": [
+    {
+      "kicker": {
+        "text": "15+",
+        "color": "beta"
+      },
+      "title": {
+        "text": "Banking Relationships"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore et dolore magna aliqua."
+      }
+    },
+    {
+      "kicker": {
+        "text": "10+",
+        "color": "beta"
+      },
+      "title": {
+        "text": "Vendor"
+      },
+      "description": {
+        "text": "Tempor incididunt ut labore et dolore magna aliqua."
+      }
+    }
+  ]
+}

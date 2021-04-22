@@ -1,0 +1,50 @@
+{
+  "kicker": {
+    "text": "Communication Skills",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "**Unlimited Lessons** From All Languages Around The World"
+  },
+  "text_1": {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-app/feature-two.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/icons/bx-check-circle.svg",
+        "alt": "alt text",
+        "color": "beta"
+      },
+      "title": {
+        "text": "Automatic interest detection"
+      }
+    },
+    {
+      "icon": {
+        "src": "../../../assets/icons/bx-check-circle.svg",
+        "alt": "alt text",
+        "color": "beta"
+      },
+      "title": {
+        "text": "Daily email reports"
+      }
+    },
+    {
+      "icon": {
+        "src": "../../../assets/icons/bx-check-circle.svg",
+        "alt": "alt text",
+        "color": "beta"
+      },
+      "title": {
+        "text": "Online tests at the end of the course"
+      }
+    }
+  ]
+}

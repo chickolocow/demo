@@ -1,0 +1,17 @@
+{ 
+    "title": {
+        "text": "Our Team",
+        "color": "alpha"
+    },
+    "text_1": {
+        "text": "Like the core of all of our products, our team was built with compliance at its core. Our team members all got their start studying law. For the past five years our team has been at the forefront of building out the new age infrastructure for various FinTech projects around the world. We have been integral in securing licenses, banking relationships, and vendors. We have created a one stop solution to help new Fintech Technologies find a home. "
+    },
+    "images": [
+        {
+            "src": "../../../assets/theme-saas/hero.png",
+            "alt": "alt text"
+        }
+            
+    ]
+    
+}

@@ -1,0 +1,89 @@
+{
+  "kicker": {
+    "text": "HIGH IMPACT RESULTS",
+    "color": "alpha"
+  },
+  "title": {
+    "text": "Strategies Focused on Your Performance"
+  },
+  "text_1": {
+    "text": "Understand First. Lorem ipsum dolor sit amet."
+  },
+  "text_2": {
+    "text": "We help our clients achieve tangible, high-impact results."
+  },
+  "collection": [
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "title": {
+        "text": "Messaging",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-message-detail.svg",
+        "alt": "alt text",
+        "bg": "#D3E7FE",
+        "color": "#276BF0"
+      }
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "title": {
+        "text": "Reminders",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-alarm-snooze.svg",
+        "alt": "alt text",
+        "bg": "#FEFAD6",
+        "color": "#F4D133"
+      }
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "title": {
+        "text": "Video Calls",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-webcam.svg",
+        "alt": "alt text",
+        "bg": "#FEE8D1",
+        "color": "#F7491D"
+      }
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "title": {
+        "text": "Organizer",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-box.svg",
+        "alt": "alt text",
+        "bg": "#EBFDDA",
+        "color": "#64DB43"
+      }
+    }
+  ]
+}

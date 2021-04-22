@@ -1,0 +1,86 @@
+{
+  "kicker": {
+    "text": "The words from these guys are pure pleasure.",
+    "color": "alpha"
+  },
+  "title": {
+    "text": "We Care About Our Customers"
+  },
+  "collection": [
+    {
+      "kicker": {
+        "text": "John Doe"
+      },
+      "title": {
+        "text": "CEO of CoolCompany"
+      },
+      "description": {
+        "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio."
+      },
+      "avatar": {
+        "src": "../../../assets/testimonials/john-doe.png",
+        "alt": "alt text"
+      }
+    },
+    {
+      "kicker": {
+        "text": "Jane Smith"
+      },
+      "title": {
+        "text": "Developer at AwesomeCo"
+      },
+      "description": {
+        "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio."
+      },
+      "avatar": {
+        "src": "../../../assets/testimonials/jane-smith.png",
+        "alt": "alt text"
+      }
+    },
+    {
+      "kicker": {
+        "text": "Sarah Doe"
+      },
+      "title": {
+        "text": "Marketing Manager"
+      },
+      "description": {
+        "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio."
+      },
+      "avatar": {
+        "src": "../../../assets/testimonials/sarah-doe.png",
+        "alt": "alt text"
+      }
+    },
+    {
+      "kicker": {
+        "text": "Steve Grant"
+      },
+      "title": {
+        "text": "Freelancer Developer"
+      },
+      "description": {
+        "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio."
+      },
+      "avatar": {
+        "src": "../../../assets/testimonials/steve-grant.png",
+        "alt": "alt text"
+      }
+    },
+    {
+      "kicker": {
+        "text": "Florrie Jacobs"
+      },
+      "title": {
+        "text": "Senior Fashion Designer"
+      },
+      "description": {
+        "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio."
+      },
+      "avatar": {
+        "src": "../../../assets/testimonials/florrie-jacobs.png",
+        "alt": "alt text"
+      }
+    }
+  ]
+}

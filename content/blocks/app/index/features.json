@@ -1,0 +1,85 @@
+{
+  "title": {
+    "text": "Our Users **Love Learning** With Our App"
+  },
+  "text_1": {
+    "text": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+  },
+  "text_2": {
+    "text": "Consectetur sed do eiusmod tempor incididunt adipisicing  eiusmod tempor incididunt elit."
+  },
+  "collection": [
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "title": {
+        "text": "Online Learning",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-message-detail.svg",
+        "alt": "alt text",
+        "bg": "#D3E7FE",
+        "color": "#276BF0"
+      }
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "title": {
+        "text": "International",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-planet.svg",
+        "alt": "alt text",
+        "bg": "#FFF3CC",
+        "color": "#FF9D01"
+      }
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "title": {
+        "text": "Competition",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-coin.svg",
+        "alt": "alt text",
+        "bg": "#FEE8D1",
+        "color": "#F7491D"
+      }
+    },
+    {
+      "container": {
+        "variant": "cards.paper"
+      },
+      "title": {
+        "text": "Organizer",
+        "color": "omegaDarker"
+      },
+      "description": {
+        "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+      },
+      "icon": {
+        "src": "../../../assets/icons/bx-box.svg",
+        "alt": "alt text",
+        "bg": "#D5FCDD",
+        "color": "#2DC88A"
+      }
+    }
+  ]
+}

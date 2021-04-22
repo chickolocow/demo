@@ -1,0 +1,67 @@
+{
+  "title": {
+    "text": "FlexiBlog Theme **Supercharge Your Website Traffic**",
+    "color": "#805AD5"
+  },
+  "images": [
+    {
+      "src": "../../../assets/blog/flexiBlog-ad-skip-pkg.jpg",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/icons/bx-layer-plus.svg",
+        "alt": "alt text",
+        "color": "#805AD5",
+        "bg": "transparent"
+      },
+      "title": {
+        "text": "FlexiBlog + FlexiBlocks"
+      },
+      "description": {
+        "text": "Install both themes on a site with Gatsby Theme Composition. It's a perfect match."
+      }
+    },
+    {
+      "icon": {
+        "src": "../../../assets/icons/bx-pen.svg",
+        "alt": "alt text",
+        "color": "#805AD5",
+        "bg": "transparent"
+      },
+      "title": {
+        "text": "CMS Integrated: Strapi, Contentful, Sanity, Netlify CMS and MDX"
+      },
+      "description": {
+        "text": "FlexiBlog supports cloud-based or self-hosted CMSes for writing blog posts."
+      }
+    },
+    {
+      "icon": {
+        "src": "../../../assets/icons/bx-rocket.svg",
+        "alt": "alt text",
+        "color": "#805AD5",
+        "bg": "transparent"
+      },
+      "title": {
+        "text": "Search + Comments + Newsletter"
+      },
+
+      "description": {
+        "text": "FlexiBlog delivers maximum functionality with value-added serverless APIs."
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Checkout FlexiBlog",
+      "type": "PAGE",
+      "link": "https://themeforest.net/item/flexiblog-react-gatsby-blog-template/27538998/",
+      "target": "_blank",
+      "variant": "secondary",
+      "bg": "#805AD5"
+    }
+  ]
+}

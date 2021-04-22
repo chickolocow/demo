@@ -1,0 +1,28 @@
+{
+  "kicker": {
+    "text": "Due Diligence",
+    "color": "omegaDark"
+  },
+  "title": {
+    "text": "Lorem ipsum dolor sit amet, **consectetur adipiscing elit**"
+  },
+  "text_1": {
+    "text": "Sirru’s team of operators and analyst will give their due diligence reports on potential investment projects and teams to recommend investments and partnerships."
+  },
+  "images": [
+    {
+      "src": "../../../assets/theme-saas/tab-feature-three.png",
+      "alt": "alt text"
+    },
+    {
+      "src": "../../../assets/theme-saas/tab-feature-three-overlay-one.png",
+      "alt": "alt text",
+      "effects": ["fadeInDown", "float"],
+      "position": {
+        "top": "-35%",
+        "left": "25%"
+      }
+    }
+  ]
+  
+}
