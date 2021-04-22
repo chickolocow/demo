@@ -10,19 +10,5 @@
   "text_1": {
     "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
     "color": "omegaDark"
-  },
-  "buttons": [
-    {
-      "text": "Get Started Now",
-      "type": "MODAL",
-      "link": "authentication",
-      "variant": "secondary"
-    },
-    {
-      "text": "Watch The Video",
-      "type": "VIDEO",
-      "link": "https://www.youtube.com/embed/WFOxZAmB_1Y?autoplay=1&modestbranding=1&showinfo=0&rel=0",
-      "variant": "primary"
-    }
-  ]
+  }
 }
